@@ -1,2 +1,1 @@
-# government-hostel-management
-Government Hostel Management
+# Government Hostel Management
